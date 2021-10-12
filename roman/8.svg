@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="84"
+   version="1.1"
+   viewBox="0 0 16.933 22.225"
+   id="svg1564"
+   sodipodi:docname="8.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1568" />
+  <sodipodi:namedview
+     id="namedview1566"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.6547619"
+     inkscape:cx="38.360385"
+     inkscape:cy="32.583219"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1564" />
+  <path
+     d="M 11.821 1.1562 L 11.821 21.2322 L 9.8698 21.2322 L 9.8698 1.1562 Z M 11.5573 1.42182 L 10.1335 1.42182 L 10.1335 20.9668 L 11.5573 20.9668 Z"
+     color="#000000"
+     style="-inkscape-stroke:none"
+     id="path1554" />
+  <g
+     fill="none"
+     stroke="#000000"
+     stroke-width="0.26458"
+     aria-label="V"
+     id="g1558">
+    <path
+       d="m -2.3389725,1.2564 4.7553,20.031 h 2.1307 l 4.7462,-20.031 h -2.1368 l -3.6793,15.702 -3.67320003,-15.702 z m 0.60051,0.66672 h 1.25889997 L 3.4771275,18.8361 7.4429275,1.92312 h 1.2498 l -4.4291,18.70198 h -1.5607 z"
+       color="#000000"
+       fill="#000000"
+       stroke="none"
+       style="-inkscape-stroke:none"
+       id="path1556"
+       sodipodi:nodetypes="cccccccccccccccc" />
+  </g>
+  <path
+     d="M 14.337 1.1562 L 14.337 21.2322 L 12.3858 21.2322 L 12.3858 1.1562 Z M 14.0733 1.42182 L 12.6495 1.42182 L 12.6495 20.9668 L 14.0733 20.9668 Z"
+     color="#000000"
+     style="-inkscape-stroke:none"
+     id="path1560" />
+  <path
+     d="M 16.78 1.1562 L 16.78 21.2322 L 14.8288 21.2322 L 14.8288 1.1562 Z M 16.5163 1.42182 L 15.0925 1.42182 L 15.0925 20.9668 L 16.5163 20.9668 Z"
+     color="#000000"
+     style="-inkscape-stroke:none"
+     id="path1562" />
+</svg>
